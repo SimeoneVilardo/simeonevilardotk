@@ -1,0 +1,18 @@
+# Hugo default output directory
+/public
+/resources/_gen/
+node_modules
+dist
+tmp
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+hugo_stats.json
